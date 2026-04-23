@@ -43,7 +43,7 @@ const ContactSection = () => {
         <p className="text-brand-cream/50 text-sm flex items-center justify-center gap-1">
           Designed with <Heart size={14} className="text-brand-blush" />
         </p>
-        <p className="text-brand-cream/60 text-sm mt-3 font-light">
+        {/* <p className="text-brand-cream/60 text-sm mt-3 font-light">
           Created by{" "}
           <a
             href="https://kartik-verma.com"
@@ -53,7 +53,7 @@ const ContactSection = () => {
           >
             Kartik Verma
           </a>
-        </p>
+        </p> */}
         <p className="text-brand-cream/30 text-xs mt-3">
           © {new Date().getFullYear()} Vaani Gupta. All rights reserved.
         </p>
